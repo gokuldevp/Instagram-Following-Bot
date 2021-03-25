@@ -6,7 +6,7 @@ import os
 
 # ************************************************ CONSTANT ***********************************************************
 CHROME_WEB_DRIVER_PATH = "C:/Development/chromedriver.exe"
-EMAIL = "dragondinolukog1@gmail.com"
+EMAIL = "email@gmail.com"
 PASSWORD = os.environ.get("PASSWORD")
 URL = "https://www.instagram.com/"
 SEARCH = "cars"
